@@ -1,0 +1,2 @@
+# sagemaker_custom_container
+sagemakerのカスタムコンテナを通して学習・推論の動きを理解する
