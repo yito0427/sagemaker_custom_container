@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "This is external file!!!!!!!!!"
+echo "This is serve2!!!!!!!!!"
+pwd
+ls
+which train
