@@ -90,7 +90,7 @@ def input_fn(input_data, content_type):
         print(transformed_data)
         print(len(transformed_data)) # 102行
         print('========== END: transformed_data =========')
-        for _ 
+        transformed_data = [s.split(',') for s in input_data.splitlines()]
         
     else:
         raise ValueError("Illegal content type")
